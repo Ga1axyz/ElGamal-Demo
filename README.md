@@ -3,7 +3,8 @@
 
 ## 介绍
 Demo 包括了 `密钥生成`、`加密变换`、`脱密变换`、`数字签名`、`签名验证` 五个组成部分<br>
-通过借助 Miracl 实现对大数的支持，能够生成指定位数的安全素数，并寻找其本原元
+通过借助 Miracl 实现对大数的支持，能够生成指定位数的安全素数，并寻找其本原元<br><br>
+开发环境为 VS 2017
 
 #### Miracl 官方文档传送门
 [Miracl 错误消息及解决办法](https://github.com/miracl/MIRACL/blob/master/docs/miracl-user-manual/miracl-error-messages.md)<br>
